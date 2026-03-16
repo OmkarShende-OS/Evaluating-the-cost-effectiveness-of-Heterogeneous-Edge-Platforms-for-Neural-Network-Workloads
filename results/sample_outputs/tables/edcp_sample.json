@@ -1,0 +1,14 @@
+[
+  {
+    "device": "Odroid-M1",
+    "runtime": "rknn-npu",
+    "edcp": 0.0231992,
+    "edcp_normalized": 1.0
+  },
+  {
+    "device": "Jetson-AGX",
+    "runtime": "tensorrt-gpu",
+    "edcp": 0.2661426,
+    "edcp_normalized": 11.4714
+  }
+]

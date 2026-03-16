@@ -1,0 +1,6 @@
+device,runtime,latency_ms,energy_j,cost_usd,power_w,temperature_c
+Odroid-M1,tflite-cpu,34.5,0.031,95.5,4.2,58.0
+Odroid-M1,rknn-npu,12.8,0.019,95.5,4.8,60.0
+Jetson-AGX,tensorrt-gpu,4.3,0.062,999.0,18.1,66.0
+Jetson-AGX,tensorrt-int8,3.9,0.058,999.0,19.0,67.0
+Odroid-H2,openvino-vpu,10.1,0.044,130.0,9.3,55.0

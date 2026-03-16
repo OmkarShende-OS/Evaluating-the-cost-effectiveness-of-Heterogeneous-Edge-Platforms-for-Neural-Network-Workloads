@@ -1,0 +1,8 @@
+{
+  "experiment_name": "runtime_comparison_demo",
+  "model": "MobileNetV2",
+  "devices": ["Odroid-M1", "Jetson-AGX"],
+  "runtimes": ["tflite-cpu", "tensorrt-gpu"],
+  "iterations": 100,
+  "warmup": 20
+}

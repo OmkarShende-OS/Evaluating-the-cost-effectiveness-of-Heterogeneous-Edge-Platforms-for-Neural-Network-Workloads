@@ -1,0 +1,6 @@
+{
+  "devices": [
+    {"name": "Odroid-M1", "class": "arm_sbc", "cost_usd": 95.5},
+    {"name": "Jetson-AGX", "class": "jetson", "cost_usd": 999.0}
+  ]
+}

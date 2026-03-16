@@ -1,0 +1,47 @@
+[
+  {
+    "device": "Odroid-M1",
+    "runtime": "tflite-cpu",
+    "energy_j": 0.031,
+    "delay_s": 0.0345,
+    "cost_usd": 95.5,
+    "edcp": 0.10213725000000001,
+    "edcp_normalized": 1.0
+  },
+  {
+    "device": "Odroid-M1",
+    "runtime": "rknn-npu",
+    "energy_j": 0.019,
+    "delay_s": 0.0128,
+    "cost_usd": 95.5,
+    "edcp": 0.0232256,
+    "edcp_normalized": 0.22739597942964
+  },
+  {
+    "device": "Jetson-AGX",
+    "runtime": "tensorrt-gpu",
+    "energy_j": 0.062,
+    "delay_s": 0.0043,
+    "cost_usd": 999.0,
+    "edcp": 0.2663334,
+    "edcp_normalized": 2.607603004780332
+  },
+  {
+    "device": "Jetson-AGX",
+    "runtime": "tensorrt-int8",
+    "energy_j": 0.058,
+    "delay_s": 0.0039,
+    "cost_usd": 999.0,
+    "edcp": 0.2259738,
+    "edcp_normalized": 2.2124523618953904
+  },
+  {
+    "device": "Odroid-H2",
+    "runtime": "openvino-vpu",
+    "energy_j": 0.044,
+    "delay_s": 0.0101,
+    "cost_usd": 130.0,
+    "edcp": 0.057772,
+    "edcp_normalized": 0.5656310503758422
+  }
+]
