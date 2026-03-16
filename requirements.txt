@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+
+# CV + image processing
+opencv-python>=4.8
+Pillow>=10.0
+
+# ML runtimes (install per platform as needed)
+tensorflow>=2.12
+tflite-runtime>=2.12; platform_machine == 'aarch64' or platform_machine == 'armv7l'
+onnx>=1.14
+onnxruntime>=1.16
+openvino>=2024.0
+
+# NVIDIA / GPU tooling (Jetson)
+# tensorrt           # install via NVIDIA JetPack (pip wheels are platform-specific)
+# pycuda             # install with system CUDA toolchain
+pynvml>=11.5
+
+# ARM / edge board utilities
+smbus2>=0.4.3
+
+# Optional experiment tooling
+seaborn>=0.13
+tqdm>=4.66
+pyyaml>=6.0
