@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Shende"
     given-names: "Omkar B"
-repository-code: "https://github.com/OmkarShende-OS/bang-for-the-buck-edge-benchmarking"
+repository-code: "https://github.com/OmkarShende-OS/Evaluating-the-cost-effectiveness-of-Heterogeneous-Edge-Platforms-for-Neural-Network-Workloads"
 license: MIT
 keywords:
   - edge ai
