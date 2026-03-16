@@ -1,7 +1,7 @@
 # 3_metrics — §5.2 Hardware Performance Metrics
 
 This module implements all hardware performance metrics defined in **Section 5.2** of the
-*Bang for the Buck* paper (SEC '23).
+*Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads* paper.
 
 ## Metrics
 

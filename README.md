@@ -1,6 +1,6 @@
-# Bang for the Buck: Edge Benchmarking & Cost-Effectiveness Toolkit
+# Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads
 
-Capability-first research-engineering repository accompanying the paper **“Bang for the Buck: Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads”**.
+Capability-first research-engineering repository accompanying the paper **"Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads"**.
 
 This repository demonstrates practical systems work across heterogeneous edge hardware, runtime stacks, profiling pipelines, and reproducible evaluation artifacts—not just paper figures.
 
@@ -97,7 +97,7 @@ Sample public-safe outputs are included under:
 ## Repository structure
 
 ```text
-bang-for-the-buck/
+heterogeneous-edge-ml-benchmarks/
 ├── docs/
 ├── configs/
 ├── src/

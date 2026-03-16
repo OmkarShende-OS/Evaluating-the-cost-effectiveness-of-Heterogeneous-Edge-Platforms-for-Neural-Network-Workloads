@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "Bang for the Buck: Edge Benchmarking & Cost-Effectiveness Toolkit"
+title: "Evaluating the Cost-Effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads"
 message: "If you use this repository, please cite it using this metadata."
 type: software
 authors:
   - family-names: "Shende"
     given-names: "Omkar B"
-repository-code: "https://github.com/omkarshende/bang-for-the-buck-edge-benchmarking"
+repository-code: "https://github.com/OmkarShende-OS/bang-for-the-buck-edge-benchmarking"
 license: MIT
 keywords:
   - edge ai

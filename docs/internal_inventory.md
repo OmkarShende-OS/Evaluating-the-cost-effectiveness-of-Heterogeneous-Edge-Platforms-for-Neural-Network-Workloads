@@ -2,7 +2,7 @@
 
 ## Candidate source pools scanned
 
-- `bang-for-the-buck/` (current repository)
+- `heterogeneous-edge-ml-benchmarks/` (current repository)
 - Reference alignment docs from workspace root:
   - `README.md`
   - `REPOSITORY_SUITE_SUMMARY.md`
